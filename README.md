@@ -9,7 +9,7 @@
 
 ## 🌊 About
 
-**MenuWaves** is a stunning animated menu bar application designed exclusively for Apple Silicon Macs. It brings beautiful wave animations, galaxy backgrounds, and dynamic visual effects directly to your macOS menu bar, creating an immersive and responsive user experience.
+**MenuWaves** is a stunning animated menu bar application designed exclusively for Apple Silicon Macs. It brings beautiful wave animations, galaxy backgrounds, and dynamic visual effects directly to your macOS menu bar, creating an immersive and responsive user experience. And moreover, this is an app that have a countdown clock to the World 3 Event
 
 ## ✨ Features
 
