@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4A79D0032E59281100078183 /* menuWaves.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = menuWaves.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A79D0112E59281300078183 /* menuWavesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = menuWavesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A79D01B2E59281300078183 /* menuWavesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = menuWavesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A79D0032E59281100078183 /* MenuWaves.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MenuWaves.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A79D0112E59281300078183 /* MenuWavesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MenuWavesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A79D01B2E59281300078183 /* MenuWavesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MenuWavesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		4A79D0042E59281100078183 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4A79D0032E59281100078183 /* menuWaves.app */,
-				4A79D0112E59281300078183 /* menuWavesTests.xctest */,
-				4A79D01B2E59281300078183 /* menuWavesUITests.xctest */,
+				4A79D0032E59281100078183 /* MenuWaves.app */,
+				4A79D0112E59281300078183 /* MenuWavesTests.xctest */,
+				4A79D01B2E59281300078183 /* MenuWavesUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4A79D0022E59281100078183 /* menuWaves */ = {
+		4A79D0022E59281100078183 /* MenuWaves */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A79D0252E59281300078183 /* Build configuration list for PBXNativeTarget "menuWaves" */;
+			buildConfigurationList = 4A79D0252E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWaves" */;
 			buildPhases = (
 				4A79CFFF2E59281100078183 /* Sources */,
 				4A79D0002E59281100078183 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				4A79D0052E59281100078183 /* menuWaves */,
 			);
-			name = menuWaves;
+			name = MenuWaves;
 			packageProductDependencies = (
 			);
 			productName = menuWaves;
-			productReference = 4A79D0032E59281100078183 /* menuWaves.app */;
+			productReference = 4A79D0032E59281100078183 /* MenuWaves.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4A79D0102E59281300078183 /* menuWavesTests */ = {
+		4A79D0102E59281300078183 /* MenuWavesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A79D0282E59281300078183 /* Build configuration list for PBXNativeTarget "menuWavesTests" */;
+			buildConfigurationList = 4A79D0282E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWavesTests" */;
 			buildPhases = (
 				4A79D00D2E59281300078183 /* Sources */,
 				4A79D00E2E59281300078183 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				4A79D0142E59281300078183 /* menuWavesTests */,
 			);
-			name = menuWavesTests;
+			name = MenuWavesTests;
 			packageProductDependencies = (
 			);
 			productName = menuWavesTests;
-			productReference = 4A79D0112E59281300078183 /* menuWavesTests.xctest */;
+			productReference = 4A79D0112E59281300078183 /* MenuWavesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4A79D01A2E59281300078183 /* menuWavesUITests */ = {
+		4A79D01A2E59281300078183 /* MenuWavesUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A79D02B2E59281300078183 /* Build configuration list for PBXNativeTarget "menuWavesUITests" */;
+			buildConfigurationList = 4A79D02B2E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWavesUITests" */;
 			buildPhases = (
 				4A79D0172E59281300078183 /* Sources */,
 				4A79D0182E59281300078183 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				4A79D01E2E59281300078183 /* menuWavesUITests */,
 			);
-			name = menuWavesUITests;
+			name = MenuWavesUITests;
 			packageProductDependencies = (
 			);
 			productName = menuWavesUITests;
-			productReference = 4A79D01B2E59281300078183 /* menuWavesUITests.xctest */;
+			productReference = 4A79D01B2E59281300078183 /* MenuWavesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4A79CFFE2E59281100078183 /* Build configuration list for PBXProject "menuWaves" */;
+			buildConfigurationList = 4A79CFFE2E59281100078183 /* Build configuration list for PBXProject "MenuWaves" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4A79D0022E59281100078183 /* menuWaves */,
-				4A79D0102E59281300078183 /* menuWavesTests */,
-				4A79D01A2E59281300078183 /* menuWavesUITests */,
+				4A79D0022E59281100078183 /* MenuWaves */,
+				4A79D0102E59281300078183 /* MenuWavesTests */,
+				4A79D01A2E59281300078183 /* MenuWavesUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		4A79D0132E59281300078183 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4A79D0022E59281100078183 /* menuWaves */;
+			target = 4A79D0022E59281100078183 /* MenuWaves */;
 			targetProxy = 4A79D0122E59281300078183 /* PBXContainerItemProxy */;
 		};
 		4A79D01D2E59281300078183 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4A79D0022E59281100078183 /* menuWaves */;
+			target = 4A79D0022E59281100078183 /* MenuWaves */;
 			targetProxy = 4A79D01C2E59281300078183 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -393,6 +393,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = menuWaves/menuWaves.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -418,6 +419,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = menuWaves/menuWaves.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -450,7 +452,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/menuWaves.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/menuWaves";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MenuWaves.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MenuWaves";
 			};
 			name = Debug;
 		};
@@ -467,7 +469,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/menuWaves.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/menuWaves";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MenuWaves.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MenuWaves";
 			};
 			name = Release;
 		};
@@ -504,7 +506,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4A79CFFE2E59281100078183 /* Build configuration list for PBXProject "menuWaves" */ = {
+		4A79CFFE2E59281100078183 /* Build configuration list for PBXProject "MenuWaves" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A79D0232E59281300078183 /* Debug */,
@@ -513,7 +515,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A79D0252E59281300078183 /* Build configuration list for PBXNativeTarget "menuWaves" */ = {
+		4A79D0252E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWaves" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A79D0262E59281300078183 /* Debug */,
@@ -522,7 +524,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A79D0282E59281300078183 /* Build configuration list for PBXNativeTarget "menuWavesTests" */ = {
+		4A79D0282E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWavesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A79D0292E59281300078183 /* Debug */,
@@ -531,7 +533,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A79D02B2E59281300078183 /* Build configuration list for PBXNativeTarget "menuWavesUITests" */ = {
+		4A79D02B2E59281300078183 /* Build configuration list for PBXNativeTarget "MenuWavesUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A79D02C2E59281300078183 /* Debug */,
